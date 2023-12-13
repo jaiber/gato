@@ -280,5 +280,8 @@ pip-selfcheck.json
 *.png
 *.json
 *.meta
+*.1
+*.h5
+experiments/*
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all,jupyternotebooks,virtualenv
