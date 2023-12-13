@@ -3,6 +3,7 @@ import tensorflow as tf
 from gato.models.transformer import TransformerBlock
 from gato.models.embedding import PatchPositionEncoding, ResidualEmbedding, LocalPositionEncoding, DiscreteEmbedding
 from gato.models.tokenizers import ContinuousValueTokenizer
+from gato.models.loader import DataLoader
 
 from tensorflow.keras import models
 from gato import GatoConfig
